@@ -54,6 +54,7 @@ body {
   grid-column: 2 / 3;
   cursor: pointer;
   background-color: #FFFFFF;
+  transition: 0.3s;
 }
 
 .button:hover {
