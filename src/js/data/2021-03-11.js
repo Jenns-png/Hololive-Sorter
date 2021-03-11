@@ -28,6 +28,13 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Uruha Rushia",
+    img: "XCZ7fTk.png",
+    opts: {
+      generation: ["3rd"],
+    }
+  },
+  {
     name: "Houshou Marine",
     img: "pRnxg4a.png",
     opts: {
