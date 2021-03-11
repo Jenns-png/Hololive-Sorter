@@ -58,6 +58,7 @@ body {
 
 .button:hover {
   color: #4ecef5;
+  background-color: #b3e0fc;
 }
 
 .starting.start.button {
