@@ -51,7 +51,8 @@ body {
   border: 1px solid black;
   text-align: center;
   padding: 10%;
-  grid-column: 2 / 3;
+  height: 50px;
+/*  grid-column: 2 / 3; */
   cursor: pointer;
   background-color: #FFFFFF;
   transition: 0.15s;
