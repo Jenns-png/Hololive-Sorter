@@ -20,11 +20,18 @@ dataSet[dataSetVersion].options = [
 ];
 
 dataSet[dataSetVersion].characterData = [
-{
-  name: "Usada Pekora",
-  img: "II5kpjJ.png",
-  opts: {
-    generation: ["3rd"],
-}
-}
+  {
+    name: "Usada Pekora",
+    img: "II5kpjJ.png",
+    opts: {
+      generation: ["3rd"],
+    }
+  },
+  {
+    name: "Houshou Marine",
+    img: "pRnxg4a.png",
+    opts: {
+      generation: ["3rd"],
+    }
+  }
 ];
