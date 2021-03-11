@@ -64,7 +64,7 @@ body {
 }
 
 .starting.start.button {
-  grid-row: 1;
+  grid-row: span 1 !important;
 }
 
 .starting.load.button {
