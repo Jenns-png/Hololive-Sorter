@@ -58,6 +58,7 @@ body {
 
 .button:hover {
   color: #4ecef5;
+}
 
 .starting.start.button {
   grid-row: span 6;
