@@ -50,14 +50,14 @@ body {
 .button {
   border: 1px solid black;
   text-align: center;
-  padding: 50%;
+  padding: 10%;
   grid-column: 2 / 3;
   cursor: pointer;
   background-color: #FFFFFF;
 }
 
 .button:hover {
-  color: #4ecef5;
+  color: #FFFFFF;
   background-color: #b3e0fc;
 }
 
