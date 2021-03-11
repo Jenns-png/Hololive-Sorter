@@ -25,8 +25,6 @@ dataSet[dataSetVersion].characterData = [
   img: "II5kpjJ.png",
   opts: {
     generation: ["3rd"],
-  }
-},
-
-  }
+}
+}
 ];
