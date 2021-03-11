@@ -136,12 +136,11 @@ body {
 }
 
 .sorter > .text > p {
-  margin: 0.2em 5px 0px;
+  margin: 0.4em 5px 0px;
   width: calc(100%-10px);
   text-align: center;
   font-size: 0.8em;
-  padding: 5px;
-  line-height: 1em;
+  line-height: 1.5em;
 }
 
 .sorter > .left {
