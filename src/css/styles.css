@@ -50,16 +50,18 @@ body {
 .button {
   border: 1px solid black;
   text-align: center;
+  justify-content: center;
+  align-items: center;
   padding: 10%;
   grid-column: 2 / 3;
   cursor: pointer;
   background-color: #FFFFFF;
-  transition: 0.3s;
+  transition: 0.15s;
 }
 
 .button:hover {
   color: #FFFFFF;
-  background-color: #b3e0fc;
+  background-color: #4eb3f2;
 }
 
 .starting.start.button {
