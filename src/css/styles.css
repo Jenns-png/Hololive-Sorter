@@ -57,6 +57,7 @@ body {
   cursor: pointer;
   background-color: #FFFFFF;
   transition: 0.15s;
+  border-radius: 5px;
 }
 
 .button:hover {
@@ -126,7 +127,7 @@ body {
   margin: auto;
   grid-row: 1 / 7;
   cursor: pointer;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 .sorter > .text {
