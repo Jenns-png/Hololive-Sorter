@@ -49,11 +49,11 @@ body {
 
 .button {
   border: 1px solid black;
-  background: #FFFFFF,
   text-align: center;
-  padding: 10%;
+  padding: 50%;
   grid-column: 2 / 3;
   cursor: pointer;
+  background-color: #FFFFFF;
 }
 
 .button:hover {
