@@ -49,11 +49,15 @@ body {
 
 .button {
   border: 1px solid black;
+  background: #FFFFFF,
   text-align: center;
   padding: 10%;
   grid-column: 2 / 3;
   cursor: pointer;
 }
+
+.button:hover {
+  color: #4ecef5;
 
 .starting.start.button {
   grid-row: span 6;
