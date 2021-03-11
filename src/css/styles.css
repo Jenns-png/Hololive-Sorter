@@ -43,7 +43,7 @@ body {
   margin: 0px auto;
   display: grid;
   grid-template-columns: 300px 1fr 300px;
-  grid-gap: 15px;
+  grid-gap: 10px 20px;
   width: 780px;
 }
 
@@ -73,7 +73,7 @@ body {
 }
 
 .sorting.button, .finished.button {
-  grid-row: span 2;
+  grid-row: span 1;
   display: none;
 }
 
