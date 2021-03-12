@@ -44,7 +44,7 @@ body {
   display: grid;
   grid-template-columns: 300px 1fr 300px;
   grid-gap: 10px 20px;
-  width: 780px;
+  width: 70%;
 }
 
 .button {
@@ -174,11 +174,11 @@ body {
   text-align: left;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
-  width: 450px;
+  width: 70%;
 }
 
 .options > div {
-  font-size: 0.5625em;
+  font-size: 0.65em;
 }
 
 label {
@@ -193,6 +193,8 @@ label:hover {
   grid-column: span 3;
   text-align: center;
   width: 100%;
+  border-top: 2px;
+  border-color: white;
 }
 
 .image.selector {
