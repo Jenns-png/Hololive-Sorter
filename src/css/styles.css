@@ -151,10 +151,6 @@ body {
   line-height: 110%;
 }
 
-.bottom.text {
-  display: flex;
-}
-
 .sorter > .left {
   grid-column: 1 / 2;
   border: 0px solid #2fe2ff;
