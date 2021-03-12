@@ -48,7 +48,7 @@ body {
 }
 
 .button {
-  border: 1px solid black;
+  border: 0px solid black;
   text-align: center;
   padding: 10%;
   grid-column: 2 / 3;
@@ -131,6 +131,7 @@ body {
 
 .sorter > .text {
   width: 300px;
+  margin: 5 0 0 0;
   height: 35px;
   display: none;
 }
@@ -145,17 +146,20 @@ body {
 
 .sorter > .left {
   grid-column: 1 / 2;
-  border: 1px solid #000000;
+  border: 0px solid #2fe2ff;
   border-radius: 5px;
   background-color: #FFFFFF;
+  font-weight: 900;
+  box-shadow: 0 0 0 4px rgb(255 255 255), 0px 3px 8px 0px rgb(0 0 0);
 }
 
 .sorter > .right {
   grid-column: 3 / 4;
-  border: 1px solid #000000;
+  border: 0px solid #2fe2ff;
   border-radius: 5px;
   background-color: #FFFFFF;
   font-weight: 900;
+  box-shadow: 0 0 0 4px rgb(255 255 255), 0px 3px 8px 0px rgb(0 0 0);
 }
 
 .options {
