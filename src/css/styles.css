@@ -44,7 +44,7 @@ body {
   display: grid;
   grid-template-columns: 35% 1fr 35%;
   grid-gap: 10px 20px;
-  width: 80%;
+  width: 800px;
 }
 
 .button {
@@ -174,7 +174,7 @@ body {
   text-align: left;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
-  width: 80%;
+  width: 800px;
 }
 
 .options > div {
