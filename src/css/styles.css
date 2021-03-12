@@ -42,9 +42,9 @@ body {
 .sorter {
   margin: 0px auto;
   display: grid;
-  grid-template-columns: 300px 1fr 300px;
+  grid-template-columns: 35% 1fr 35%;
   grid-gap: 10px 20px;
-  width: 800px;
+  width: 80%;
 }
 
 .button {
@@ -136,18 +136,18 @@ body {
 }
 
 .sorter > .text {
-  width: 300px;
-  margin: 5 0 0 0;
-  height: 35px;
+  width: 100%;
+  margin: 5% 0 0 0;
+  height: 5vh;
   display: none;
 }
 
 .sorter > .text > p {
-  margin: 0.4em 5px 0px;
-  width: calc(100%-10px);
+  width: 80%;
+  margin:auto;
   text-align: center;
-  font-size: 0.8em;
-  line-height: 1.5em;
+  font-size: 1.8vh;
+  line-height: 110%;
 }
 
 .sorter > .left {
@@ -169,12 +169,12 @@ body {
 }
 
 .options {
-  margin: 1em auto;
+  margin: 3em auto;
   display: grid;
   text-align: left;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
-  width: 70%;
+  width: 80%;
 }
 
 .options > div {
@@ -194,7 +194,7 @@ label:hover {
   grid-column: span 3;
   text-align: center;
   width: 100%;
-  border-top: 2px;
+  border-top: 5px;
   border-color: white;
 }
 
