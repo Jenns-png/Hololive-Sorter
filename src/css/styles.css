@@ -58,7 +58,7 @@ body {
   transition: 0.15s;
 }
 
-.button:hover {
+.button:hover, .button:active {
   color: #FFFFFF;
   background-color: #4eb3f2;
   transition: 0.15s;
