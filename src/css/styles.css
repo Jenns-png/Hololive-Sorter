@@ -139,7 +139,7 @@ body {
   width: 100%;
   margin: 5% 0 0 0;
   height: 5vh;
-  display: none;
+  display: flex !important;
 }
 
 .sorter > .text > p {
@@ -157,7 +157,6 @@ body {
   background-color: #FFFFFF;
   font-weight: 900;
   box-shadow: 0 0 0 4px rgb(255 255 255), 0px 3px 8px 0px rgb(0 0 0);
-  display: flex;
 }
 
 .sorter > .right {
@@ -167,7 +166,6 @@ body {
   background-color: #FFFFFF;
   font-weight: 900;
   box-shadow: 0 0 0 4px rgb(255 255 255), 0px 3px 8px 0px rgb(0 0 0);
-  display: flex;
 }
 
 .options {
