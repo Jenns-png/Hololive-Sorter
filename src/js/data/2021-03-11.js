@@ -77,7 +77,7 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Tokino Sora",
-    img: "IMAGE URL",
+    img: "WiGkKLa.png",
     opts: {
       generation: ["0th"],
 	  branch: ["JP"]
@@ -85,7 +85,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Roboca",
-    img: "IMAGE URL",
+    img: "WiGkKLa.png",
     opts: {
       generation: ["0th"],
 	  branch: ["JP"]
@@ -93,7 +93,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sakura Miko",
-    img: "IMAGE URL",
+    img: "WiGkKLa.png",
     opts: {
       generation: ["0th"],
 	  branch: ["JP"]
