@@ -29,6 +29,12 @@ dataSet[dataSetVersion].options = [
     key: "holostar",
     tooltip: "Check this to remove Holostars.",
     checked: false
+  },
+  {
+    name: "Remove Retired Talents",
+    key: "graduated",
+    tooltip: "Uncheck this to remove retired talents.",
+    checked: false
   }
 ];
 
