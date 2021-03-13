@@ -8,62 +8,20 @@ dataSet[dataSetVersion].options = [
     tooltip: "Check this to filter out certain Hololive generations.",
     checked: false,
     sub: [
-     { 
-		name: "Hololive 0th Generation", 
-		key: "0th" 
-	 },
-	 { 
-		name: "Hololive 1st Generation", 
-		key: "1st" 
-	 },
-	 { 
-		name: "Hololive 2nd Generation", 
-		key: "2nd" 
-	 },
-	 { 
-		name: "Hololive Gamers", 
-		key: "Gamers" 
-	 },
-	 { 
-		name: "Hololive 3rd Generation", 
-		key: "3rd" 
-	 },
-	 { 
-		name: "Hololive 4th Generation", 
-		key: "4th" 
-	 },
-	 { 
-		name: "Hololive 5th Generation", 
-		key: "5th" 
-	 },
-	 { 
-		name: "Hololive ID 1st Generation", 
-		key: "1st ID" 
-	 },
-	 { 
-		name: "Hololive ID 2nd GENERATION", 
-		key: "2nd ID" 
-	 },
-	 { 
-		name: "Hololive EN 1st GENERATION", 
-		key: "1st EN" 
-	 },
-	 { 
-		name: "Holostars 1st Generation", 
-		key: "1st HS" 
-	 },
-	 { 
-		name: "Holostars 2nd Generation", 
-		key: "2nd HS" 
-	 },
-	 { 
-		name: "Holostars 3rd Generation", 
-		key: "3rd HS" 
-	 },
-	 { 
-		name: "Staff", 
-		key: "Staff" 
-	 }
+     { name: "Hololive 0th Generation", key: "0th" },
+     { name: "Hololive 1st Generation", key: "1st" },
+     { name: "Hololive 2nd Generation", key: "2nd" },
+     { name: "Hololive Gamers", key: "Gamers" },
+     { name: "Hololive 3rd Generation", key: "3rd" },
+     { name: "Hololive 4th Generation", key: "4th" },
+     { name: "Hololive 5th Generation", key: "5th" },
+     { name: "Hololive ID 1st Generation", key: "1st ID" },
+     { name: "Hololive ID 2nd GENERATION", key: "2nd ID" },
+     { name: "Hololive EN 1st GENERATION", key: "1st EN" },
+     { name: "Holostars 1st Generation", key: "1st HS" },
+     { name: "Holostars 2nd Generation", key: "2nd HS" },
+     { name: "Holostars 3rd Generation", key: "3rd HS" },
+     { name: "Staff", key: "Staff" },
     ]
   },
   {
