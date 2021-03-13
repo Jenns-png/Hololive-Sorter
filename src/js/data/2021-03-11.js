@@ -336,7 +336,7 @@ dataSet[dataSetVersion].characterData = [
     img: "IMAGE URL",
     opts: {
       generation: ["5th"],
-	  branch: ["JP"]
+	  branch: ["JP"],
 	  graduated: true
     }
   }
@@ -433,7 +433,7 @@ dataSet[dataSetVersion].characterData = [
     img: "IMAGE URL",
     opts: {
       generation: ["1st HS"],
-	  branch: ["JP"]
+	  branch: ["JP"],
 	  holostar: true
     }
   }
@@ -442,7 +442,7 @@ dataSet[dataSetVersion].characterData = [
     img: "IMAGE URL",
     opts: {
       generation: ["1st HS"],
-	  branch: ["JP"]
+	  branch: ["JP"],
 	  holostar: true
     }
   }
@@ -451,7 +451,7 @@ dataSet[dataSetVersion].characterData = [
     img: "IMAGE URL",
     opts: {
       generation: ["1st HS"],
-	  branch: ["JP"]
+	  branch: ["JP"],
 	  holostar: true
     }
   }
@@ -460,7 +460,7 @@ dataSet[dataSetVersion].characterData = [
     img: "IMAGE URL",
     opts: {
       generation: ["1st HS"],
-	  branch: ["JP"]
+	  branch: ["JP"],
 	  holostar: true
     }
   }
@@ -469,8 +469,8 @@ dataSet[dataSetVersion].characterData = [
     img: "IMAGE URL",
     opts: {
       generation: ["1st HS"],
-	  branch: ["JP"]
-	  holostar: true
+	  branch: ["JP"],
+	  holostar: true,
 	  graduated: true
     }
   }
@@ -479,8 +479,8 @@ dataSet[dataSetVersion].characterData = [
     img: "IMAGE URL",
     opts: {
       generation: ["1st HS"],
-	  branch: ["JP"]
-	  holostar: true
+	  branch: ["JP"],
+	  holostar: true,
 	  graduated: true
     }
   }
@@ -489,7 +489,7 @@ dataSet[dataSetVersion].characterData = [
     img: "IMAGE URL",
     opts: {
       generation: ["2nd HS"],
-	  branch: ["HS"]
+	  branch: ["HS"],
 	  holostar: true
     }
   }
@@ -498,7 +498,7 @@ dataSet[dataSetVersion].characterData = [
     img: "IMAGE URL",
     opts: {
       generation: ["2nd HS"],
-	  branch: ["JP"]
+	  branch: ["JP"],
 	  holostar: true
     }
   }
@@ -507,7 +507,7 @@ dataSet[dataSetVersion].characterData = [
     img: "IMAGE URL",
     opts: {
       generation: ["2nd HS"],
-	  branch: ["JP"]
+	  branch: ["JP"],
 	  holostar: true
     }
   }
@@ -516,7 +516,7 @@ dataSet[dataSetVersion].characterData = [
     img: "IMAGE URL",
     opts: {
       generation: ["3rd HS"],
-	  branch: ["JP"]
+	  branch: ["JP"],
 	  holostar: true
     }
   }
@@ -525,7 +525,7 @@ dataSet[dataSetVersion].characterData = [
     img: "IMAGE URL",
     opts: {
       generation: ["3rd HS"],
-	  branch: ["JP"]
+	  branch: ["JP"],
 	  holostar: true
     }
   }
@@ -534,8 +534,8 @@ dataSet[dataSetVersion].characterData = [
     img: "IMAGE URL",
     opts: {
       generation: ["3rd HS"],
-	  branch: ["JP"]
-	  holostar: true
+	  branch: ["JP"],
+	  holostar: true,
 	  graduated: true
     }
   }
