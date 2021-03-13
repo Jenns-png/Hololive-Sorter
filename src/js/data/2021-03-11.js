@@ -41,15 +41,15 @@ dataSet[dataSetVersion].options = [
 dataSet[dataSetVersion].characterData = [
   {
     name: "Tokino Sora",
-    img: "WiGkKLa.png",
+    img: "kf0tg3O.png",
     opts: {
       generation: ["0th"],
 	  branch: ["JP"]
     }
   },
   {
-    name: "Roboca",
-    img: "WiGkKLa.png",
+    name: "Roboco",
+    img: "Vq0uSOl.png",
     opts: {
       generation: ["0th"],
 	  branch: ["JP"]
@@ -57,7 +57,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sakura Miko",
-    img: "WiGkKLa.png",
+    img: "81ZRJMl.png",
     opts: {
       generation: ["0th"],
 	  branch: ["JP"]
@@ -65,7 +65,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hoshimachi Suisei",
-    img: "IMAGE URL",
+    img: "goVzjCW.png",
     opts: {
       generation: ["0th"],
 	  branch: ["JP"]
@@ -73,7 +73,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "AZKi",
-    img: "IMAGE URL",
+    img: "VvXqzCq.png",
     opts: {
       generation: ["0th"],
 	  branch: ["JP"]
