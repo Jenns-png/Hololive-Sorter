@@ -12,9 +12,15 @@ body {
 }
 
 .progress {
+  text-align:center;
   margin: 1em auto;
   width: 800px;
   display: none;
+}
+
+.progressbattle {
+  padding: 15px;
+  font-weight: 600;
 }
 
 .progressbar {
