@@ -13,21 +13,24 @@ body {
 
 .progress {
   margin: 1em auto;
-  width: 500px;
+  width: 800px;
   display: none;
 }
 
 .progressbar {
   position: relative;
-  width: 492px;
-  border: 1px solid black;
-  padding: 3px;
+  width: 794px;
+  padding: 4px;
   margin: 2px 0px;
+  border-radius: 4px;
+  background-color: white;
+  box-shadow: 0 0 0 2px rgb(255 255 255), 0px 3px 4px 0px rgb(0 0 0 / 38%);
+  
 }
 
 .progresstext {
   position: absolute;
-  width: 492px;
+  width: 100%;
   margin: 3px 0px;
   text-align: center;
   font-size: 0.7em;
@@ -35,7 +38,8 @@ body {
 
 .progressfill {
   height: 20px;
-  background-color: lightgreen;
+  background-color: #7dff9f;
+  border-radius: inherit;
   width: 0%;
 }
 
