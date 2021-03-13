@@ -1,6 +1,7 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  font-family: Montserrat, Helvetica, sans-serif;
+  background: linear-gradient(#d9f5fa, #5ce1ff);
+  font-size: 18px;
 }
 
 .container {
@@ -11,22 +12,31 @@ body {
 }
 
 .progress {
+  text-align:center;
   margin: 1em auto;
-  width: 500px;
+  width: 800px;
   display: none;
+}
+
+.progressbattle {
+  padding: 15px;
+  font-weight: 600;
 }
 
 .progressbar {
   position: relative;
-  width: 492px;
-  border: 1px solid black;
-  padding: 3px;
+  width: 794px;
+  padding: 4px;
   margin: 2px 0px;
+  border-radius: 4px;
+  background-color: white;
+  box-shadow: 0 0 0 2px rgb(255 255 255), 0px 3px 4px 0px rgb(0 0 0 / 38%);
+  
 }
 
 .progresstext {
   position: absolute;
-  width: 492px;
+  width: 0;
   margin: 3px 0px;
   text-align: center;
   font-size: 0.7em;
@@ -34,37 +44,47 @@ body {
 
 .progressfill {
   height: 20px;
-  background-color: lightgreen;
+  background-color: #7dff9f;
+  border-radius: inherit;
   width: 0%;
 }
 
 .sorter {
   margin: 0px auto;
   display: grid;
-  grid-template-columns: 120px 1fr 120px;
-  grid-gap: 5px;
-  width: 420px;
+  grid-template-columns: 35% 1fr 35%;
+  grid-gap: 10px 20px;
+  width: 800px;
 }
 
 .button {
-  border: 1px solid black;
+  border: 0px solid black;
   text-align: center;
   padding: 10%;
   grid-column: 2 / 3;
   cursor: pointer;
+  background-color: #FFFFFF;
+  border-radius: 5px;
+  transition: 0.15s;
+}
+
+.button:hover, .button:active {
+  color: #FFFFFF;
+  background-color: #4eb3f2;
+  transition: 0.15s;
 }
 
 .starting.start.button {
-  grid-row: span 6;
+  grid-row: span 1 !important;
 }
 
 .starting.load.button {
-  grid-row: span 3;
+  grid-row: 2;
   display: none;
 }
 
 .sorting.button, .finished.button {
-  grid-row: span 2;
+  grid-row: span 1;
   display: none;
 }
 
@@ -111,62 +131,96 @@ body {
 }
 
 .sorter > .image {
-  width: 120px;
-  height: 180px;
+  width: 280px;
+  height: 418px;
   margin: auto;
   grid-row: 1 / 7;
   cursor: pointer;
+  border-radius: 5px;
+  box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.35);
+  transition: 0.3s;
+}
+
+.sorter > .image:hover {
+  box-shadow: 0 0 0 7px rgb(255 255 255), 0px 3px 8px 3px rgb(0 0 0);
+  transition: 0.3s;
 }
 
 .sorter > .text {
-  width: 120px;
-  height: 60px;
+  width: 280px;
+  margin: 5% 0 0 0;
+  height: 5vh;
   display: none;
 }
 
 .sorter > .text > p {
-  margin: 0.5em 5px 0px;
-  width: calc(100%-10px);
+  width: 80%;
+  margin:auto;
   text-align: center;
-  font-size: 0.8em;
-  line-height: 1.5em;
+  font-size: 1.8vh;
+  line-height: 110%;
 }
 
 .sorter > .left {
   grid-column: 1 / 2;
-  border: 1px solid #000000;
+  border: 0px solid #2fe2ff;
+  border-radius: 5px;
+  background-color: #FFFFFF;
+  font-weight: 900;
+  box-shadow: 0 0 0 4px rgb(255 255 255), 0px 3px 8px 0px rgb(0 0 0);
 }
 
 .sorter > .right {
   grid-column: 3 / 4;
-  border: 1px solid #000000;
+  border: 0px solid #2fe2ff;
+  border-radius: 5px;
+  background-color: #FFFFFF;
+  font-weight: 900;
+  box-shadow: 0 0 0 4px rgb(255 255 255), 0px 3px 8px 0px rgb(0 0 0);
 }
 
 .options {
-  margin: 1em auto;
+  margin: 3em auto;
   display: grid;
   text-align: left;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 10px;
-  width: 450px;
+  width: 800px;
 }
 
 .options > div {
-  font-size: 0.5625em;
+  font-size: 0.7em;
+  border-radius: 5px;
+  grid-column: 1;
+  text-align: start;
+  width: 100%;
 }
 
 label {
   cursor: pointer;
+  font-weight: 600;
 }
 
 label:hover {
-  color: #990000;
+  color: #258cff;
 }
 
-.options > .large.option, .options > hr {
+.options > .large.option {
   grid-column: span 3;
   text-align: center;
   width: 100%;
+  border-color: white;
+  background-color: white;
+  padding: 5 0 5 0;
+  margin-bottom: 15px;
+  box-shadow: 0 0 0 4px rgb(255 255 255), 0px 3px 8px 0px rgb(0 0 0);
+}
+
+.options > hr {
+  grid-column: span 3;
+  width: 100%;
+  border-top: 5px;
+  border-color: white;
 }
 
 .image.selector {
