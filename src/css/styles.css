@@ -228,13 +228,13 @@ label:hover {
 .image.selector {
   margin-top: 0.5em;
   width: 500px;
-  display: none;
+  display: none !important;
   text-align: center;
   font-size: 0.75em;
 }
 
 .time.taken {
-  margin-top: 0.5em;
+  margin-top: 2.5em;
   width: 500px;
   display: none;
   text-align: center;
