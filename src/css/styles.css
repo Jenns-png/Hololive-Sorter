@@ -273,7 +273,7 @@ label:hover {
   display: grid;
   width: 259;
   grid-template-columns: repeat(2, 1fr);
-  border: 1px solid #000;
+  border: 1px solid #909090;
   margin-right: 5px;
 }
 
@@ -361,7 +361,7 @@ label:hover {
   width: 200;
   padding: 1px 2px 1px 10;
   grid-column: 2 / 3;
-  border-left: 1px solid #000;
+  border-left: 1px solid #909090;
   text-align: left;
 }
 
