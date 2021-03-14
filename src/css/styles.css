@@ -314,14 +314,17 @@ label:hover {
   height: 20px;
   background-color: #000;
   color: #FFF;
+  border-color: white;
 }
 
 .result.head .right {
   position: relative;
-  width: 800;
-  top: 2px;
-  font-weight: 600;
+  width: 100%;
+  font-weight: 800;
   text-align: center;
+  color: black;
+  background-color: white;
+  border-color: white;
 }
 
 .result.head .left {
@@ -329,6 +332,8 @@ label:hover {
   width: 0;
   margin: 0;
   padding: 0;
+  color: white;
+  background-color: white;
   text-align: center;
 }
 
