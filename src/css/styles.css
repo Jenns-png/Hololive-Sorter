@@ -316,6 +316,22 @@ label:hover {
   color: #FFF;
 }
 
+.result.head .right {
+  position: relative;
+  width: 800;
+  top: 2px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.result.head .left {
+  position: relative;
+  width: 0;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
 .result > .left {
   width: 35px;
   padding: 1px 3px 1px 0.5em;
