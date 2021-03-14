@@ -21,14 +21,14 @@ dataSet[dataSetVersion].options = [
      { name: "Holostars 1st Gen", key: "1st HS" },
      { name: "Holostars 2nd Gen", key: "2nd HS" },
      { name: "Holostars 3rd Gen", key: "3rd HS" },
-     { name: "Staff", key: "Staff" },
+     { name: "Staff", key: "Staff", checked: false },
     ]
   },
   {
     name: "Remove Holostars",
     key: "holostar",
     tooltip: "Check this to remove Holostars.",
-    checked: false
+    checked: true
   },
   {
     name: "Remove Retired Talents",
@@ -306,7 +306,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ayunda Risu",
-    img: "IMAGE URL",
+    img: "https://i.imgur.com/wL3v3AQ.png",
     opts: {
       generation: ["1st ID"],
 	  branch: ["ID"]
@@ -314,7 +314,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Moona Hoshinova",
-    img: "IMAGE URL",
+    img: "https://i.imgur.com/FIFDevS.png",
     opts: {
       generation: ["1st ID"],
 	  branch: ["ID"]
@@ -322,7 +322,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Airani Iofifteen",
-    img: "IMAGE URL",
+    img: "https://i.imgur.com/iXUIFAB.png",
     opts: {
       generation: ["1st ID"],
 	  branch: ["ID"]
@@ -330,7 +330,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kureiji Ollie",
-    img: "IMAGE URL",
+    img: "https://i.imgur.com/8qL9FJK.png",
     opts: {
       generation: ["2nd ID"],
 	  branch: ["ID"]
@@ -338,7 +338,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Anya Melfissa",
-    img: "IMAGE URL",
+    img: "https://i.imgur.com/Yw8FVZk.png",
     opts: {
       generation: ["2nd ID"],
 	  branch: ["ID"]
@@ -346,7 +346,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Pavolia Reine",
-    img: "IMAGE URL",
+    img: "https://i.imgur.com/JoqoJqn.png",
     opts: {
       generation: ["2nd ID"],
 	  branch: ["ID"]
@@ -354,7 +354,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mori Calliope",
-    img: "IMAGE URL",
+    img: "https://i.imgur.com/fjnhigS.png",
     opts: {
       generation: ["1st EN"],
 	  branch: ["EN"]
@@ -362,7 +362,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Takanashi Kiara",
-    img: "IMAGE URL",
+    img: "https://i.imgur.com/gBRvB4K.png",
     opts: {
       generation: ["1st EN"],
 	  branch: ["EN"]
@@ -370,7 +370,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ninomae Ina'nis",
-    img: "IMAGE URL",
+    img: "https://i.imgur.com/Zsrgb1C.png",
     opts: {
       generation: ["1st EN"],
 	  branch: ["EN"]
@@ -378,7 +378,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Gawr Gura",
-    img: "IMAGE URL",
+    img: "https://i.imgur.com/kT8x7tA.png",
     opts: {
       generation: ["1st EN"],
 	  branch: ["EN"]
@@ -386,7 +386,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Watson Amelia",
-    img: "IMAGE URL",
+    img: "https://i.imgur.com/Lc46V5t.png",
     opts: {
       generation: ["1st EN"],
 	  branch: ["EN"]
