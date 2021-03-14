@@ -306,7 +306,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ayunda Risu",
-    img: "https://i.imgur.com/wL3v3AQ.png",
+    img: "wL3v3AQ.png",
     opts: {
       generation: ["1st ID"],
 	  branch: ["ID"]
@@ -314,7 +314,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Moona Hoshinova",
-    img: "https://i.imgur.com/FIFDevS.png",
+    img: "FIFDevS.png",
     opts: {
       generation: ["1st ID"],
 	  branch: ["ID"]
@@ -322,7 +322,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Airani Iofifteen",
-    img: "https://i.imgur.com/iXUIFAB.png",
+    img: "iXUIFAB.png",
     opts: {
       generation: ["1st ID"],
 	  branch: ["ID"]
@@ -330,7 +330,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kureiji Ollie",
-    img: "https://i.imgur.com/8qL9FJK.png",
+    img: "8qL9FJK.png",
     opts: {
       generation: ["2nd ID"],
 	  branch: ["ID"]
@@ -338,7 +338,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Anya Melfissa",
-    img: "https://i.imgur.com/Yw8FVZk.png",
+    img: "Yw8FVZk.png",
     opts: {
       generation: ["2nd ID"],
 	  branch: ["ID"]
@@ -346,7 +346,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Pavolia Reine",
-    img: "https://i.imgur.com/JoqoJqn.png",
+    img: "JoqoJqn.png",
     opts: {
       generation: ["2nd ID"],
 	  branch: ["ID"]
@@ -354,7 +354,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mori Calliope",
-    img: "https://i.imgur.com/fjnhigS.png",
+    img: "fjnhigS.png",
     opts: {
       generation: ["1st EN"],
 	  branch: ["EN"]
@@ -362,7 +362,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Takanashi Kiara",
-    img: "https://i.imgur.com/gBRvB4K.png",
+    img: "gBRvB4K.png",
     opts: {
       generation: ["1st EN"],
 	  branch: ["EN"]
@@ -370,7 +370,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ninomae Ina'nis",
-    img: "https://i.imgur.com/Zsrgb1C.png",
+    img: "Zsrgb1C.png",
     opts: {
       generation: ["1st EN"],
 	  branch: ["EN"]
@@ -378,7 +378,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Gawr Gura",
-    img: "https://i.imgur.com/kT8x7tA.png",
+    img: "kT8x7tA.png",
     opts: {
       generation: ["1st EN"],
 	  branch: ["EN"]
@@ -386,7 +386,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Watson Amelia",
-    img: "https://i.imgur.com/Lc46V5t.png",
+    img: "Lc46V5t.png",
     opts: {
       generation: ["1st EN"],
 	  branch: ["EN"]
