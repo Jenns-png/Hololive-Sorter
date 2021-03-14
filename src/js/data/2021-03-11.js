@@ -81,7 +81,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yozora Mel",
-    img: "IMAGE URL",
+    img: "cB9RmqA.png",
     opts: {
       generation: ["1st"],
 	  branch: ["JP"]
@@ -89,7 +89,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shirakami Fubuki",
-    img: "IMAGE URL",
+    img: "X5y0bla.png",
     opts: {
       generation: ["1st", "Gamers"],
 	  branch: ["JP"]
@@ -97,7 +97,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Natsuiro Matsuri",
-    img: "IMAGE URL",
+    img: "P3Cn2Ic.png",
     opts: {
       generation: ["1st"],
 	  branch: ["JP"]
@@ -105,7 +105,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Aki Rosenthal",
-    img: "IMAGE URL",
+    img: "NpVsFen.png",
     opts: {
       generation: ["1st"],
 	  branch: ["JP"]
@@ -113,7 +113,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Akai Haato",
-    img: "IMAGE URL",
+    img: "nzUXgJK.png",
     opts: {
       generation: ["1st"],
 	  branch: ["JP"]
@@ -121,7 +121,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Minato Aqua",
-    img: "IMAGE URL",
+    img: "AZjqSIB.png",
     opts: {
       generation: ["2nd"],
 	  branch: ["JP"]
@@ -129,7 +129,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Murasaki Shion",
-    img: "IMAGE URL",
+    img: "GZlKbrm.png",
     opts: {
       generation: ["2nd"],
 	  branch: ["JP"]
@@ -137,7 +137,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nakiri Ayame",
-    img: "IMAGE URL",
+    img: "ouI3jie.png",
     opts: {
       generation: ["2nd"],
 	  branch: ["JP"]
@@ -145,7 +145,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yuzuki Choco",
-    img: "IMAGE URL",
+    img: "6Pz1FoF.png",
     opts: {
       generation: ["2nd"],
 	  branch: ["JP"]
@@ -153,7 +153,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Oozora Subaru",
-    img: "IMAGE URL",
+    img: "dmVrLC4.png",
     opts: {
       generation: ["2nd"],
 	  branch: ["JP"]
@@ -161,7 +161,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ookami Mio",
-    img: "IMAGE URL",
+    img: "JLPvRws.png",
     opts: {
       generation: ["Gamers"],
 	  branch: ["JP"]
@@ -169,7 +169,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Nekomata Okayu",
-    img: "IMAGE URL",
+    img: "HeitWUl.png",
     opts: {
       generation: ["Gamers"],
 	  branch: ["JP"]
@@ -177,7 +177,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Inugami Korone",
-    img: "IMAGE URL",
+    img: "Qn6lLXh.png",
     opts: {
       generation: ["Gamers"],
 	  branch: ["JP"]
@@ -185,7 +185,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Usada Pekora",
-    img: "IMAGE URL",
+    img: "uTYVkkX.png",
     opts: {
       generation: ["3rd"],
 	  branch: ["JP"]
@@ -193,7 +193,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Uruha Rushia",
-    img: "IMAGE URL",
+    img: "BBskrhc.png",
     opts: {
       generation: ["3rd"],
 	  branch: ["JP"]
@@ -201,7 +201,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shiranui Flare",
-    img: "IMAGE URL",
+    img: "UpFqOxH.png",
     opts: {
       generation: ["3rd"],
 	  branch: ["JP"]
@@ -209,7 +209,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shirogane Noel",
-    img: "IMAGE URL",
+    img: "kIY4lEN.png",
     opts: {
       generation: ["3rd"],
 	  branch: ["JP"]
@@ -217,7 +217,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Houshou Marine",
-    img: "IMAGE URL",
+    img: "JKWFV8A.png",
     opts: {
       generation: ["3rd"],
 	  branch: ["JP"]
@@ -225,7 +225,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Amane Kanata",
-    img: "IMAGE URL",
+    img: "E7m7k1C.png",
     opts: {
       generation: ["4th"],
 	  branch: ["JP"]
@@ -233,7 +233,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kiryu Coco",
-    img: "IMAGE URL",
+    img: "8wfd9BK.png",
     opts: {
       generation: ["4th"],
 	  branch: ["JP"]
@@ -241,7 +241,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tsunomaki Watame",
-    img: "IMAGE URL",
+    img: "pCTFgKh.png",
     opts: {
       generation: ["4th"],
 	  branch: ["JP"]
@@ -249,7 +249,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Tokoyami Towa",
-    img: "IMAGE URL",
+    img: "dkyixix.png",
     opts: {
       generation: ["4th"],
 	  branch: ["JP"]
@@ -257,7 +257,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Himemori Luna",
-    img: "IMAGE URL",
+    img: "lWgVqwN.png",
     opts: {
       generation: ["4th"],
 	  branch: ["JP"]
@@ -265,7 +265,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Yukihana Lamy",
-    img: "IMAGE URL",
+    img: "8Otbfo9.png",
     opts: {
       generation: ["5th"],
 	  branch: ["JP"]
@@ -273,7 +273,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Momosuzu Nene",
-    img: "IMAGE URL",
+    img: "19QsXR9.png",
     opts: {
       generation: ["5th"],
 	  branch: ["JP"]
@@ -281,7 +281,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shishiro Botan",
-    img: "IMAGE URL",
+    img: "BN5Y0JQ.png",
     opts: {
       generation: ["5th"],
 	  branch: ["JP"]
@@ -289,7 +289,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Omaru Polka",
-    img: "IMAGE URL",
+    img: "bZ3VeXR.png",
     opts: {
       generation: ["5th"],
 	  branch: ["JP"]
@@ -297,7 +297,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Mano Aloe",
-    img: "IMAGE URL",
+    img: "SAUg14t.png",
     opts: {
       generation: ["5th"],
 	  branch: ["JP"],
