@@ -6,7 +6,7 @@ dataSet[dataSetVersion].options = [
     name: "Filter by Generation	",
     key: "generation",
     tooltip: "Check this to filter out certain Hololive generations.",
-    checked: false,
+    checked: true,
     sub: [
      { name: "Hololive 0th Gen", key: "0th" },
      { name: "Hololive 1st Gen", key: "1st" },
